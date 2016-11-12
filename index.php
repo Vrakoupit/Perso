@@ -5,7 +5,7 @@
 	<title>Vincent Curt</title>
 	<link rel="stylesheet" href="css/main.css">
 </head>
-<body>
+<body id="home">
 	<nav>
         <ul>
             <li><img src="" alt=""></li>
