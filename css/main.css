@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Source+Sans+Pro');
+
+body {
+	margin: 0;
+	font-family: 'Source Sans Pro';
+}
+
+nav {
+	position: absolute;
+}
+
+h2 {
+	font-family: 'Montserrat';
+}
+
+.sectionGauche {
+	background-image: url("http://lorempicsum.com/simpsons/800/900/1");
+	width: 50%;
+	height: 780px;
+	display: inline-block;
+}
+
+.sectionGauche div {
+	margin-top: 35%;
+	padding: 30px 150px;
+	text-align: center;
+	list-style-type: none;
+	font-weight: 400;
+	color: white;
+}
+
+.sectionDroite {
+	background-image: url("http://lorempicsum.com/futurama/800/900/4");
+	width: 50%;
+	height: 780px;
+	display: inline-block;
+}
+
+.sectionDroite div {
+	margin-top: 35%;
+	padding: 30px 150px;
+	text-align: center;
+	list-style-type: none;
+	font-weight: 400;
+	color: white;
+}
