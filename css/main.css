@@ -61,12 +61,18 @@ nav ul li:first-child a {
 }
 
 .sectionGauche div {
-	margin-top: 38%;
+	margin-top: 24%;
 	padding: 30px 150px;
 	text-align: center;
 	list-style-type: none;
 	font-weight: 400;
 	color: white;
+}
+
+.sectionGauche div ul li:nth-child(2) img {
+	width: 100px;
+	border-radius: 50%;
+	border: 2px solid white;
 }
 
 #infosPicto li {
@@ -140,12 +146,18 @@ nav ul li:first-child a {
 }
 
 .sectionDroite div {
-	margin-top: 38%;
+	margin-top: 24%;
 	padding: 30px 150px;
 	text-align: center;
 	list-style-type: none;
 	font-weight: 400;
 	color: white;
+}
+
+.sectionDroite div ul li:nth-child(2) img {
+	width: 100px;
+	border-radius: 50%;
+	border: 2px solid white;
 }
 
 .sectionDroite div ul li:last-child a {
