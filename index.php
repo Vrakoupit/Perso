@@ -33,7 +33,7 @@
 		<div>
 			<ul>
 				<li><h2>Le blog</h2></li>
-				<li><img src="img/blog.png" alt=""></li>
+				<li><img src="img/blog.jpg" alt=""></li>
 				<li><p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500.</p></li>
 				<li><a href="/blog">Découvrir</a></li>
 			</ul>
